@@ -13,4 +13,9 @@ File 10: cd -
 File 11: ls
 File 12: file
 File 13: symbolic link
-File 14: copy html
+File 14: copy htm
+File 15: uppercase
+File 16: emacs clean
+File 17: multiple directories
+File 18: commas
+File 19: magic
