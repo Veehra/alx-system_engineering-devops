@@ -9,4 +9,5 @@ File 6: mkdir /tmp
 File &: mv
 File 8: rm -r
 File 9: rmdir
-File 10: cd ..
+File 10: cd -
+File 11: ls
