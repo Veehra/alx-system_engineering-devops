@@ -11,3 +11,6 @@ File 8: rm -r
 File 9: rmdir
 File 10: cd -
 File 11: ls
+File 12: file
+File 13: symbolic link
+File 14: copy html
