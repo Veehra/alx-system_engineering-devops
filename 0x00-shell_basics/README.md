@@ -8,3 +8,4 @@ File 5: ls -la
 File 6: mkdir /tmp
 File &: mv
 File 8: rm -r
+File 9: rmdir
