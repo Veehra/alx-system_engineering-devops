@@ -13,3 +13,7 @@ file 10: mirror
 file 11: directories
 file 12: more directories
 file 13: change group
+file 14: change owner and group
+file 15: change for only a symbolic link hello
+file 16:i from gulliuame
+file 17: star wars
