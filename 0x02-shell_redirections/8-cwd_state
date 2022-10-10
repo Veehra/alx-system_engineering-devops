@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls -la is used to display hidden files in long format" >> ls_cwd_content
+echo "ls -la" > ls_cwd_content
