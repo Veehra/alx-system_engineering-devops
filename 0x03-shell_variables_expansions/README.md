@@ -6,3 +6,4 @@
 4-global variables
 5-local variables
 6- create local variable
+7- create global variable
