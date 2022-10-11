@@ -16,3 +16,4 @@
 100-decimal to hexadecimal
 101-rot
 102-odd
+103-water and stir
