@@ -4,3 +4,4 @@
 2-path
 3-paths
 4-global variables
+5-local variables
