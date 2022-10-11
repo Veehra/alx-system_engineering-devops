@@ -12,4 +12,5 @@
 10-love exponent breath
 11-binary to decimal
 12-combinations
-13-print `float
+13-print float
+100-decimal to hexadecimal
